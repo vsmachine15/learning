@@ -1,6 +1,6 @@
 hii ! im vsmachine, im 18 and currently in college for electrical engineering !
 
-my goal is to specialize in embedded systems or fpga design 
+my goal is to build a strong foundation in programming, digital systems, and EE !
 
 i wanted to create a github account and start uploading the code i write, what i learn, and also share future projects !
 
